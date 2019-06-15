@@ -6,6 +6,12 @@ A simple antivirus program written in VB.NET
 
 This startup guide will explain how to get AntiWirus up and running on your computer.
 
+## Important
+
+Because I do not own a digital certificate, Windows SmartScreen will block the executable from running. I have VirusTotal scans as proof that this isn't a virus.
+
+https://www.virustotal.com/gui/url/5b253394f9086a408f4e7861468b77cb6f9264ce30cba7a36b2df9c95e8571c1/detection
+
 ### Installing
 
 AntiWirus is a Windows application, so you won't be able to use it on Mac or Linux. To get started, download the installer listed on the Releases page. From there, install the program like you normally would for any other program. After that, you're all set to start testing AntiWirus.
