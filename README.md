@@ -12,7 +12,7 @@ Because I do not own a digital certificate, Windows SmartScreen will block the e
 
 https://www.virustotal.com/gui/url/b2dfb2416e817917acb612770b4d80d639068e0eda426a52c8727d96eca343b1/detection
 
-Also note that this is an **ALPHA** release
+Also note that this is an **BETA** release
 
 ### Installing
 
