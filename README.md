@@ -10,7 +10,9 @@ This startup guide will explain how to get AntiWirus up and running on your comp
 
 Because I do not own a digital certificate, Windows SmartScreen will block the executable from running. I have VirusTotal scans as proof that this isn't a virus.
 
-https://www.virustotal.com/gui/url/5b253394f9086a408f4e7861468b77cb6f9264ce30cba7a36b2df9c95e8571c1/detection
+https://www.virustotal.com/gui/url/b2dfb2416e817917acb612770b4d80d639068e0eda426a52c8727d96eca343b1/detection
+
+Also note that this is an **ALPHA** release
 
 ### Installing
 
